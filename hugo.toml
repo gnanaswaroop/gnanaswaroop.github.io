@@ -1,0 +1,6 @@
+baseURL = "https://swaroop.in/"
+title = "Swaroop"
+locale = "en-US"
+
+# Single landing page only: no taxonomy, RSS or sitemap output.
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
